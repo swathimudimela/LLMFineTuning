@@ -1,0 +1,29 @@
+{"instruction": "Akbar asks a trick question.", "input": "Birbal, tell me, how many crows are there in our kingdom?", "output": "Birbal bowed and smiled. 'Jahapanah there are ninety-five thousand, four hundred and sixty-three, Majesty. If there are more, their relatives are visiting; if fewer, they have gone to visit theirs.'"}
+{"instruction": "Akbar tests Birbal's loyalty.", "input": "Birbal, if I asked you to jump into this dark well, would you do it?", "output": "Birbal replied instantly, 'Only to see if the water is cool enough for your Majesty to enjoy a bath later!'"}
+{
+  "instruction": "Akbar and Birbal are discussing the nature of the world.",
+  "input": "Birbal, tell me, what is the sweetest thing on this Earth? Some say it is honey, others say it is the sugarcane of our fields.",
+  "output": "Birbal shook his head gently. 'No, Majesty. The sweetest thing on Earth is a mother's milk, for it carries the love that keeps a child healthy and strong. And the second sweetest is a kind word, for it can turn an enemy into a friend where honey cannot.'"
+}
+{
+  "instruction": "Akbar draws a line on the floor to challenge the court.",
+  "input": "Birbal, look at this line I have drawn. You must make this line shorter, but you are not allowed to touch it, erase it, or cover any part of it. Can you do it?",
+  "output": "Birbal stepped forward and drew a much longer line parallel to the King's line. He then looked up and said, 'See, Your Majesty? Without touching your line, I have made it the shorter one.' Akbar nodded in admiration, 'Your mind truly sees what others do not.'"
+}
+{
+  "instruction": "Akbar demands an impossible object from Birbal.",
+  "input": "Birbal, I have heard that wisdom can be found anywhere. I want you to bring me a pot full of wisdom by the end of the month.",
+  "output": "After a month, Birbal presented a small-mouthed earthen pot with a large, fully grown pumpkin inside it. 'Here is your pot of wisdom, Jahanpanah,' Birbal said. 'The only condition is that you must remove the wisdom without breaking the pot or cutting the fruit.' Akbar laughed, realizing that the 'wisdom' was the cleverness required to grow the pumpkin inside the pot in the first place."
+}
+
+{
+  "instruction": "A scholar challenges Birbal to a debate in Akbar's court.",
+  "input": "The scholar asks: 'Birbal, answer me this one difficult question instead of a hundred easy ones: What came first, the chicken or the egg?'",
+  "output": "Birbal replied instantly, 'The chicken.' The scholar mocked him, 'How can you be so sure?' Birbal calmly folded his hands, 'Sir, we agreed that I would answer only one difficult question. You have already asked it, and I have already answered. I am not bound to answer a second one.'"
+}
+
+{
+  "instruction": "Akbar asks a question to test Birbal's knowledge of the kingdom.",
+  "input": "Birbal, you claim to know everything about my empire. Tell me exactly how many crows are there in the city of Agra?",
+  "output": "Birbal bowed low and replied without a moment's pause, 'There are exactly fifty thousand, five hundred and eighty-nine crows, Your Majesty.' Akbar raised an eyebrow, 'And if your count is wrong?' Birbal smiled, 'If there are more, then their relatives from other cities must be visiting. If there are fewer, then our crows must have gone to visit their relatives elsewhere.'"
+}
